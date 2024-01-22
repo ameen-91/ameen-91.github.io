@@ -20,6 +20,6 @@ series = ["math for ML"]
 
 PCA is a statistical tool for dimensionality reduction.
 ddsf
-![Alt text](/image.png)
+![Alt text](/image1.png)
 
 asd
