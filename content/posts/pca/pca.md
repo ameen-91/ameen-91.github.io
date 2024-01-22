@@ -19,3 +19,5 @@ series = ["math for ML"]
 ## Introduction
 
 PCA is a statistical tool for dimensionality reduction.
+
+![targets](/image.png)
