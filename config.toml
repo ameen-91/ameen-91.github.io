@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
+baseURL = "https://ameenshaikh.com"
+title   = "Personal Portfolio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Hello Friend"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -255,3 +255,4 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
