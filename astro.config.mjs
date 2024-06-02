@@ -6,4 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: "https://ameenshaikh.com",
   integrations: [mdx(), sitemap(), tailwind()],
+  
 });
