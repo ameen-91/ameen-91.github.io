@@ -1,8 +1,7 @@
 ---
 company: "Microsoft Innovations Club"
-role: "AI/ML Head"
+role: "Tech Lead"
 dateStart: "4/10/2024"
 dateEnd: "Current"
 ---
-
-Working as the AI/ML Head of MIC VIT Chennai.
+Working as the Tech Lead of MIC VIT Chennai.
